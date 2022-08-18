@@ -13,10 +13,10 @@ const Home = () => {
     
         <p className='text-pink-600'>Hi,My name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Sahil Ramjali</h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Frontend and Flutter Developer</h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm enthusiastic in developing android applications and website frontend.
+        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Flutter Developer</h2>
+        <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm enthusiastic in developing android and ios applications using Flutter Framework.
          I am at final semester in Bachelor in CSIT at ACHS college affiliated to Tribhuvan University.
-            Currently, I am learning Flutter for mobile application development and react js for web development.
+          Also, availabile for Freelancing.
             
         </p>
         <div>
