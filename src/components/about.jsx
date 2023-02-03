@@ -17,11 +17,9 @@ const About = () => {
           <div>
             <p>
               I am passionate about building mobile applications and websites
-              that improves the lives of those around me.Currently pursuing CSIT
-              degree from Asian College of Higher Studies affiliated to
-              Tribhuvan University. I'm learning flutter framework for mobile
+              that improves the lives of those around me. I'm learning flutter framework for mobile
               application development and react js for frontend development
-              seeking internship on those mentioned(mobile app and web
+              seeking job on those mentioned(mobile app and web
               development) domain.
             </p>
           </div>
