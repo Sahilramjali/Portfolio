@@ -13,7 +13,7 @@ const Home = () => {
     
         <p className='text-pink-600'>Hi,My name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Sahil Ramjali</h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Font-end Developer</h2>
+        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Front-end Developer</h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm enthusiastic in developing android and ios applications using Flutter Framework and also build web apps.
          I completed my Bsc.CSIT from Tribhuvan University.
           Also, availabile for Freelancing.
