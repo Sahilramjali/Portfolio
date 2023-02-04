@@ -8,7 +8,7 @@ const Navbar = () => {
   };
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
-      <div className=" text-4xl font-bold">Sahil Ramjali</div>
+      <div className=" text-4xl font-bold italic">Sahil Ramjali</div>
       {/*menu*/}
 
       <ul className=" hidden md:flex">
