@@ -1,4 +1,4 @@
-import Encryption from "../assets/encryption.png";
+import Encryption from "../assets/ed_warden.png";
 import EducationW from "../assets/educationw.png";
 import ud1 from "../assets/ud1.png";
 import news from '../assets/newsapp.png';
