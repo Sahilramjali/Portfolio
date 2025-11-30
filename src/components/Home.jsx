@@ -1,7 +1,7 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 import{Link} from 'react-scroll';
-import CV from '../assets/cv/cv.pdf';
+import CV from '../assets/cv/flutter_sahil_ramjali_CV.pdf';
 
 
 const Home = () => {
